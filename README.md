@@ -9,7 +9,6 @@
 <br/>
 
 ### REJECT MODERNITY. EMBRACE MASCULINITY.
-<img width="555px" alt="Baldwin IV 1" src="https://64.media.tumblr.com/106fea785788a511e817c7881f8aa177/2cb3e5d4d5cf58d7-9d/s1280x1920/40fa4f126dd9a58f606f6cc7cfb5260d029ee07d.gif"><img>
 
 ## Contact
 - Email: [kacperwojtkowski@icloud.com](mailto:kacperwojtkowski@icloud.com)
