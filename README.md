@@ -1,5 +1,5 @@
 # Hi, I'm Kacper
-### I LOVE GAMEDEV <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+### I LOVE GAMEDEV <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg" />
 #### I do kickboxing, gym programming, play guitar, run, and cook.
 
 <br />
