@@ -8,8 +8,6 @@
 
 <br/>
 
-### REJECT MODERNITY. EMBRACE MASCULINITY.
-
 ## Contact
 - Email: [kacperwojtkowski@icloud.com](mailto:kacperwojtkowski@icloud.com)
 - LeetCode: [xoy5](https://leetcode.com/u/xoy5/)
