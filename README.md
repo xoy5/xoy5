@@ -35,7 +35,7 @@
 <br />
 
 ## Contact
-- Email: [kacperwojtkowski@icloud.com](mailto:kacperwojtkowski@icloud.com)
+- e-mail: [kacperwojtkowski@icloud.com](mailto:kacperwojtkowski@icloud.com)
 - LeetCode: [xoy5](https://leetcode.com/u/xoy5/)
 <br />
     
