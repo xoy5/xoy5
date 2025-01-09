@@ -2,6 +2,7 @@
   <h2>The BEST teacher that ever lived</h2>
   <img src="Clueless.webp" alt="Clueless" width="70" height="70">
 </div>
+
 # Hi, I'm Kacper
 ### I LOVE GAMEDEV  <img width="18px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg" />
 #### I do kickboxing, gym programming, play guitar, run, and cook.
