@@ -1,5 +1,5 @@
 # Hi, I'm Kacper
-## The BEST teacher that ever lived
+## The BEST teacher that ever lived ![Pendulum in run](Pendulum.png)
 ### I LOVE GAMEDEV  <img width="18px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg" />
 #### I do kickboxing, gym programming, play guitar, run, and cook.
 
