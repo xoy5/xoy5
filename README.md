@@ -5,8 +5,8 @@
 
 # Hi, I'm Kacper
 ### I LOVE GAMEDEV  <img width="18px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg" />
-#### I do kickboxing, gym programming, play guitar, run, and cook.
-
+<!--#### I do kickboxing, gym programming, play guitar, run, and cook.-->
+### Outside of programming, I enjoy playing guitar, working out, doing math, running, cooking, and reading books.
 <br />
 
 ## I know these technologies and programing languages
