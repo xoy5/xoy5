@@ -9,7 +9,7 @@
 ### Outside of programming, I enjoy playing guitar, working out, doing math, running, cooking, and reading books.
 <br />
 
-## I know these technologies and programing languages
+## FAV
 <img align="left" alt="C++" width="30px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />       
 <img align="left" alt="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
               
