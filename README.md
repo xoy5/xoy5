@@ -2,8 +2,6 @@
 
 <h1>Hi, I'm Kacper</h1>
 
-### 💻 C++ Developer | 🧮 Math Lover | 🏋️🏃 Gym/Runner | 🎸 Guitarist
-
 ---
 
 ### 🛠️ My Tech Stack
