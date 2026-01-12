@@ -2,6 +2,8 @@
 
 <h1>Hi, I'm Kacper</h1>
 
+### 💻 C++ DirectX | 🧮 Math Lover
+
 ---
 
 ### 🛠️ My Tech Stack
