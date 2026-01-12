@@ -1,16 +1,30 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**xoy5/xoy5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1>Hi, I'm Kacper</h1>
 
-Here are some ideas to get you started:
+### 💻 C++ Developer | 🧮 Math Lover | 🏋️🏃 Gym/Runner | 🎸 Guitarist
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ My Tech Stack
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="40" alt="C++" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40" alt="MySQL" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git" />
+</p>
+
+---
+
+### 📫 Connect with me
+
+<p align="center">
+  <a href="mailto:kacperwojtkowski@icloud.com"><img src="https://img.shields.io/badge/Email-kacperwojtkowski%40icloud.com-blue?style=flat-square&logo=icloud" alt="Email" /></a>
+  <a href="https://leetcode.com/u/xoy5/"><img src="https://img.shields.io/badge/LeetCode-xoy5-orange?style=flat-square&logo=leetcode" alt="LeetCode" /></a>
+</p>
+
+<!-- <br /> <img width="200px" alt="Rayman" src="https://i.redd.it/e8anvpdaqmmc1.gif" style="border-radius: 10px;">-->
+
+</div>
