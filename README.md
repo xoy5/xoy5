@@ -22,7 +22,7 @@
 
 <p align="center">
   <a href="mailto:kacperwojtkowski@icloud.com"><img src="https://img.shields.io/badge/Email-kacperwojtkowski%40icloud.com-blue?style=flat-square&logo=icloud" alt="Email" /></a>
-  <a href="mailto:kacperwojtkowski@gmail.com"><img src="https://img.shields.io/badge/Email-kacperwojtkowski080%40gmail.com-blue?style=flat-square&logo=gmail" alt="Email" /></a>
+  <a href="mailto:kacperwojtkowski@gmail.com"><img src="https://img.shields.io/badge/Email-kacperwojtkowski080%40gmail.com-red?style=flat-square&logo=gmail" alt="Email" /></a>
   <a href="https://leetcode.com/u/xoy5/"><img src="https://img.shields.io/badge/LeetCode-xoy5-orange?style=flat-square&logo=leetcode" alt="LeetCode" /></a>
 </p>
 
